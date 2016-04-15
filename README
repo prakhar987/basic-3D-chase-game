@@ -1,0 +1,23 @@
+There is a 10*10 grid which is textured as land
+
+Randomly some cubes are absent (hollow space)
+
+Randomly some cubes move up & down (fire texture)
+
+Player starts at left bottom (orange texture).(Arrow keys control movement)
+
+Destination is top right corner (textured as a crown).
+
+Water surrounds the game play.
+
+There are following views:
+
+1 Default view (by an altitude)
+2 Tower view (from top of board)
+3 Chase Cam (follows the player)
+
+These views can be toggled while playing (T-Tower , C- Chase Cam ,E-Default)
+
+Also the board can be zoomed into & zoomed out. (F-to go far N- To come near)
+
+And also the default cam can be adjusted.(W-increase angle S-decrease angle)
